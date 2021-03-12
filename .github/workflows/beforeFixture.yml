@@ -1,7 +1,7 @@
 name: My before fixture
 on:
   repository_dispatch:
-    types: [beforeTestWorkflow]
+    types: [beforeFixture]
 jobs:
   build:
     runs-on: ubuntu-latest
