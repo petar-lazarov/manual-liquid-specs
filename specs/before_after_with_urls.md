@@ -6,7 +6,7 @@ url: foo/whatever.png
 # Before/After stuff and urls
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin interdum, arcu lacinia gravida mattis, lectus quam feugiat urna, id vehicula odio massa et tortor. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque quis hendrerit dolor, nec condimentum orci. Aliquam dictum eu massa a cursus. Aliquam eget urna cursus, placerat justo in, posuere libero. Pellentesque sapien augue, imperdiet et consectetur non, dapibus vel justo. Nam fermentum ullamcorper enim eget vestibulum. Donec eget mi auctor, congue mauris faucibus, congue diam. Praesent in diam lectus. Vestibulum eu nunc commodo, aliquet metus eget, ullamcorper ipsum. 
-[mylink]( {{ url }} )
+[mylink]( {{ spec.url }} )
 
 ## [setup]
 
