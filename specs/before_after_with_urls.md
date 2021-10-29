@@ -1,6 +1,6 @@
 ---
 testspace:
-url: foo/whatever.png
+url: ./states.png
 ---
 
 # Before/After stuff and urls
