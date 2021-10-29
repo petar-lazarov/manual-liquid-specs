@@ -5,4 +5,4 @@ This partial will check if custom variables are present:
 * {{ spec.bar.baz }}
 * [test]({{ spec.url }})
 * ![test]({{ spec.url }})
-
+* ![test3](./states.png)
