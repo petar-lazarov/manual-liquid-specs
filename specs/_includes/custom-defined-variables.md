@@ -4,3 +4,5 @@ This partial will check if custom variables are present:
 * {{ spec.bar }}
 * {{ spec.bar.baz }}
 * [test]({{ spec.url }})
+* ![test]({{ spec.url }})
+
