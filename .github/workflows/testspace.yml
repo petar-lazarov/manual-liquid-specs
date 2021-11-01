@@ -14,11 +14,11 @@ on:
 jobs:
   debugJob:
     runs-on: ubuntu-latest
-      steps:
-        - run: |
-            echo example "${{ github.job }}" function call
-            echo with "${{ github.event.inputs.payload }}" payload
-            echo and "${{ github.event.inputs.context }}" context
+    steps:
+      - run: |
+          echo example "${{ github.job }}" function call
+          echo with "${{ github.event.inputs.payload }}" payload
+          echo and "${{ github.event.inputs.context }}" context
   beforeJob:
     if: ${{ github.job == github.event.inputs.name }}
     runs-on: ubuntu-latest
