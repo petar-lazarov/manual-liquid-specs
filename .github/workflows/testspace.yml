@@ -11,13 +11,13 @@ on:
       context:
         description: 'Function execution-context'
         required: true
- jobs:
+jobs:
   beforeJob:
     if: github.job == github.event.inputs.name # required as one "job" identifies/implements just one lambda-function 
     runs-on: ubuntu-latest
     steps:
       - run: |
-        echo example "{{ github.job }}" function call
+        echo example "${{ github.job }}" function call
         echo with "${{ github.event.inputs.payload }}" payload
         echo and "${{ github.event.inputs.context }}" context
   afterJob:
