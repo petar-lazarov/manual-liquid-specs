@@ -1,13 +1,13 @@
 ---
 testspace:
 before:
-  name: "github::beforeFixture"
+  name: "github::beforeJob"
   description: "My before fixture description is here"
   input:
     a: before this
     b: before that
 after:
-  name: "github::afterFixture"
+  name: "github::afterJob"
   description: "My after fixture description is here"
   input:
     a: after this
