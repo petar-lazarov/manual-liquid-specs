@@ -21,7 +21,7 @@ jobs:
           echo with "${{ github.event.inputs.payload }}" payload
           echo and "${{ github.event.inputs.context }}" context
   beforeJob:
-    if: ${{ github.job.name == github.event.inputs.name }}
+    if: ${{ github.event.inputs.name == "beforeJob" }}
     runs-on: ubuntu-latest
     steps:
       - run: |
@@ -29,7 +29,7 @@ jobs:
           echo with "${{ github.event.inputs.payload }}" payload
           echo and "${{ github.event.inputs.context }}" context
   afterJob:
-    if: github.job.name == github.event.inputs.name
+    if: github.job == github.event.inputs.name
     runs-on: ubuntu-latest
     steps:
       - run: |
