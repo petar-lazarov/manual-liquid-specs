@@ -18,7 +18,6 @@ Nunc tincidunt, ligula ac volutpat sodales, magna neque viverra ante, eget hendr
 ## Scenario 3🐻
 
 Mauris vestibulum lacus a aliquet efficitur. Donec malesuada nisi turpis, ac dapibus odio mattis sed. Maecenas consectetur lacinia sagittis. Curabitur sodales turpis varius vehicula dictum. Integer bibendum purus in sapien suscipit, in malesuada eros lacinia. Duis luctus metus quis ex ultricies, in sollicitudin lorem dictum. Pellentesque eros ex, faucibus vitae ex eu, mollis laoreet magna. Etiam semper et diam vestibulum efficitur. Vestibulum tristique vehicula metus, et rutrum nunc interdum ac. Nam id diam vitae urna convallis tristique et non nulla.🐻
-�
 ## Scenario 4🐻
 
 Praesent elementum, urna vitae tristique mollis, risus justo hendrerit magna, posuere molestie magna mauris ac mauris. Mauris posuere lorem quis turpis pulvinar condimentum. Mauris blandit semper sapien, sit amet blandit metus elementum et. Nam at ipsum a urna pretium euismod. Cras vel luctus ipsum, non dignissim enim. Pellentesque euismod pharetra ligula, id ultrices leo tempor et. Praesent cursus dolor quis nunc hendrerit, non ullamcorper justo imperdiet. Etiam ac felis risus. Sed non elit vel nunc vehicula blandit.🐻
