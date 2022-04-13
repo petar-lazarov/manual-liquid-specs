@@ -1,1 +1,4 @@
 manual:
+  issues: 
+    provider: "jira:testspacedev/TEST"
+    label: "tstsps"
