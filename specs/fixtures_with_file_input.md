@@ -16,5 +16,5 @@ after:
 
 Show how to access fixtures vars:
 
-* Before fixture: {{ spec.before.name }} - {{ spec.before.description }} - {{ spec.before.input }}
-* After fixture: {{ spec.before.name }} - {{ spec.before.description }} - {{ spec.before.input }}
+* Before fixture: {{ spec.before.name }} - {{ spec.before.description }} - {{ spec.before.payload }}
+* After fixture: {{ spec.before.name }} - {{ spec.before.description }} - {{ spec.before.payload }}
