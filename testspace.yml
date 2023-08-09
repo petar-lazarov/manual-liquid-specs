@@ -1,1 +1,3 @@
 manual:
+  issues: 
+    provider: "jira:s2technologies/TST"
