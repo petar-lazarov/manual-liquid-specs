@@ -1,3 +1,3 @@
 manual:
   issues: 
-    provider: "jira:s2technologies/TST"
+    provider: "jira:s2technologies/SBOX"
